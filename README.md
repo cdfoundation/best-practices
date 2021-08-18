@@ -1,10 +1,11 @@
-# best-practices
+## Website
+View the [Best Practices Website](https://cdfoundation.github.io/best-practices/)
 
 ## Cayman Theme
 The GitHub pages theme used is [Cayman](https://github.com/pages-themes/cayman). Visit the page for all customization details.
 
 ## GitHub Markdown
-Not sure how to make Markdown do what you want? [Learn it here](https://guides.github.com/features/mastering-markdown/)
+Not sure how to make Markdown do what you want? [Learn it here](https://guides.github.com/features/mastering-markdown/).
 
 ## Jekyll Themes
 
