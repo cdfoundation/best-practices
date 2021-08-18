@@ -1,5 +1,7 @@
 # Continuous Delivery Foundation Best Practices
 
+![Continuous Delivery Foundation Logo](images/cdf-horizontal-black.svg)
+
 Welcome to the Continuous Delivery Foundation's Best Practices Page. 
 
 ## Overview
