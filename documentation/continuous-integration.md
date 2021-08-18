@@ -1,4 +1,4 @@
-# Continuous Integration (CI)
+## Continuous Integration (CI)
 
 ## Why Continuous Integration
 [Continuous Integration](https://github.com/cdfoundation/glossary/blob/main/definitions.md#continuous-integration) ensures that coding changes are merged, compiled/linked, packaged and registered on a frequent basis, avoiding broken builds and ensuring a clean release candidate is available continuously. 
