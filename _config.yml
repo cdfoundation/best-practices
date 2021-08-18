@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: CD.Foundation Best Practices
 description: This is the best practices created by the Continuous Delivery Foundation Community and the Best Practices SIG.
+favicon: [cdfoundation/best-practices/favicon.ico]

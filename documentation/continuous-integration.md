@@ -11,7 +11,6 @@ Examples of verifications:
 * Testing
 * Building and packaging
 
-
 ## Description & Scope
 Minimizing broken builds due to incompatible coding changes is the purpose of the continuous integration process. Many of us can remember the days when project teams would have a ‘sync-up’ process which generally meant check-in all of your coding updates and let us all ‘pray’ the build runs. An unsung hero called the Build Manager created the build script which would include merging and pulling all of the coding updates based on ‘tags’ and then get the build to run. 
 
