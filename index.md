@@ -1,16 +1,14 @@
 # Continuous Delivery Foundation Best Practices
 
+Welcome to the Continuous Delivery Foundation's Best Practices Page. 
 
-## Version Control 
-(To be added)
-
-
-# Continuous Delivery Foundation Best Practices
+## Overview
+Here is the overview... (coming soon).
 
 Explore the best practices:
-[Measuring Success - DORA Key Metrics]()
-[Security & Compliance]()
-[Configuration Management]()
-[What is Continuous Integration?](/best-practices/documentation/continuous-integration)
-[What is Continuous Deployment]()
-[Continuous Testing Strategies]()
+1. [Measuring Success - DORA Key Metrics]()
+2. [Security & Compliance]()
+3. [Configuration Management]()
+4. [What is Continuous Integration?](/best-practices/documentation/continuous-integration)
+5. [What is Continuous Deployment]()
+6. [Continuous Testing Strategies]()
