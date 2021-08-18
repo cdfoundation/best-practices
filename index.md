@@ -10,5 +10,5 @@ Explore the best practices:
 2. [Security & Compliance](documentation/security-and-compliance.md)
 3. [Configuration Management](documentation/configuration-management.md)
 4. [What is Continuous Integration?](/documentation/continuous-integration.md)
-5. [What is Continuous Deployment](documentation/continuous-deployment.md)
+5. [What is Continuous Deployment?](documentation/continuous-deployment.md)
 6. [Continuous Testing Strategies](documentation/continuous-testing.md)
